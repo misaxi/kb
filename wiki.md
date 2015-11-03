@@ -5,6 +5,7 @@
   - [Jingo](https://github.com/claudioc/jingo)
   - [Sphinx](http://sphinx-doc.org/)
   - [Jekyll](https://jekyllrb.com/)
+  - [Middleman](https://middlemanapp.com/)
 
 - Editor
   - [Dillinger] The last Markdown editor, ever.
