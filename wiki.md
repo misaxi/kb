@@ -2,6 +2,9 @@
   - [gollum] A simple, Git-powered wiki with a sweet API and local frontend.
   - [Realms] Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger.
   - [MkDocs] Project documentation with Markdown.
+  - [Jingo](https://github.com/claudioc/jingo)
+  - [Sphinx](http://sphinx-doc.org/)
+  - [Jekyll](https://jekyllrb.com/)
 
 - Editor
   - [Dillinger] The last Markdown editor, ever.
