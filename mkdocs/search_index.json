@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "This is nothing but a personal Knowledge Base. Glad if you find something useful.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/bloom-filter/", 
+            "text": "3 Rules of thumb for Bloom Filters http://corte.si/posts/code/bloom-filter-rules-of-thumb/\n\n\nBloom Filters by Example http://billmill.org/bloomfilter-tutorial/\n\n\nBloom Filters https://www.jasondavies.com/bloomfilter/\n\n\n\n\nReal world usage\n- Cassandra uses bloom filters to check if key is not in the set before doing\na storage access https://wiki.apache.org/cassandra/ArchitectureOverview", 
+            "title": "Bloom filter"
+        }, 
+        {
+            "location": "/localstorage/", 
+            "text": "A list of libiaries for localstorage\n\n\nhttp://caniuse.com/#search=localstorage\n\n\n\n\nlocalForage\n Offline storage, improved.\n\n\nbasil\n The missing Javascript smart persistent layer\n\n\nLargeLocalStorage\n Problem: You need to store a large amount of key-value based data in IE, Chrome, Safari, AND Firefox\n\n\npouchdb\n The Database that Syncs!\n\n\nLokiJS\n javascript embeddable / in-memory database\n\n\nlscache\n A localStorage-based memcache-inspired client-side caching library\n\n\nlsbridge\n Using local storage as a communication channel", 
+            "title": "Localstorage"
+        }, 
+        {
+            "location": "/nodejs/", 
+            "text": "Deployment\n\n\nWhat is the best way to deploy Node.js? https://www.reddit.com/r/node/comments/38bnzi/what_is_the_best_way_to_deploy_nodejs/", 
+            "title": "Nodejs"
+        }, 
+        {
+            "location": "/wiki/", 
+            "text": "Wiki System\n\n\ngollum\n A simple, Git-powered wiki with a sweet API and local frontend.\n\n\nRealms\n Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger.\n\n\nMkDocs\n Project documentation with Markdown.\n\n\nJingo\n\n\nSphinx\n\n\nJekyll\n\n\n\n\nMiddleman\n\n\n\n\n\n\nEditor\n\n\n\n\n\n\nDillinger\n The last Markdown editor, ever.\n\n\n\n\n\n\nTools\n\n\n\n\nGravizo\n renders graphics on the fly. Supports plainuml, graphviz, etc.\n\n\n\n\nTogetherJS\n TogetherJS is a free, open source JavaScript library by Mozilla that adds collaboration features and tools to your website. By adding TogetherJS to your site, your users can help each other out on a website in real time!\n\n\n\n\n\n\nPublish\n\n\n\n\nGitHub Pages\n\n\nRead the Docs\n\n\nGitBook", 
+            "title": "Wiki"
+        }
+    ]
+}
